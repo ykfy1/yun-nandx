@@ -1,22 +1,22 @@
 Yunnan_dianxin-组播,#genre#
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="央视高清",云南影视
-http://106.59.2.255:55555/rtp/239.200.200.15:8856
+http://106.59.2.207:55555/rtp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="央视高清",云南都市
-http://106.59.2.255:55555/rtp/239.200.200.12:8844
+http://106.59.2.207:55555/rtp/239.200.200.12:8844
 #EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="央视高清",云南娱乐
-http://106.59.2.255:55555/rtp/239.200.200.13:8848
+http://106.59.2.207:55555/rtp/239.200.200.13:8848
 #EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南康旅.png" group-title="卫视频道",云南康旅
-http://106.59.2.255:55555/rtp/239.200.200.31:8860
+http://106.59.2.207:55555/rtp/239.200.200.31:8860
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="卫视频道",云南少儿
-http://106.59.2.255:55555/rtp/239.200.200.32:8864
+http://106.59.2.207:55555/rtp/239.200.200.32:8864
 #EXTINF:-1 tvg-name="澜湄国际" tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png" group-title="卫视频道",澜湄国际
-http://106.59.2.255:55555/rtp/239.200.200.33:8024
+http://106.59.2.207:55555/rtp/239.200.200.33:8024
 #EXTINF:-1 tvg-name="楚雄新闻" tvg-logo="https://live.fanmingming.com/tv/楚雄新闻.png" group-title="卫视频道",楚雄新闻
-http://106.59.2.255:55555/rtp/239.200.200.116:8708
+http://106.59.2.207:55555/rtp/239.200.200.116:8708
 #EXTINF:-1 tvg-name="禄丰市电视台" tvg-logo="https://live.fanmingming.com/tv/禄丰市电视台.png" group-title="卫视频道",禄丰市电视台
-http://106.59.2.255:55555/rtp/239.200.200.163:8798
+http://106.59.2.207:55555/rtp/239.200.200.163:8798
 #EXTINF:-1 tvg-name="云南4K" tvg-logo="https://live.fanmingming.com/tv/云南4K.png" group-title="卫视频道",云南4K
-http://106.59.2.255:55555/rtp/239.200.200.178:8884
+http://106.59.2.207:55555/rtp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="央视高清",云南影视
 http://106.59.2.61:55555/rtp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="央视高清",云南都市
@@ -72,23 +72,23 @@ http://116.248.103.93:7777/rtp/239.200.200.163:8798
 #EXTINF:-1 tvg-name="云南4K" tvg-logo="https://live.fanmingming.com/tv/云南4K.png" group-title="卫视频道",云南4K
 http://116.248.103.93:7777/rtp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="央视高清",云南影视
-http://218.63.137.165:5060/rtp/239.200.200.15:8856
+http://218.63.137.188:5060/rtp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="央视高清",云南都市
-http://218.63.137.165:5060/rtp/239.200.200.12:8844
+http://218.63.137.188:5060/rtp/239.200.200.12:8844
 #EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="央视高清",云南娱乐
-http://218.63.137.165:5060/rtp/239.200.200.13:8848
+http://218.63.137.188:5060/rtp/239.200.200.13:8848
 #EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南康旅.png" group-title="卫视频道",云南康旅
-http://218.63.137.165:5060/rtp/239.200.200.31:8860
+http://218.63.137.188:5060/rtp/239.200.200.31:8860
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="卫视频道",云南少儿
-http://218.63.137.165:5060/rtp/239.200.200.32:8864
+http://218.63.137.188:5060/rtp/239.200.200.32:8864
 #EXTINF:-1 tvg-name="澜湄国际" tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png" group-title="卫视频道",澜湄国际
-http://218.63.137.165:5060/rtp/239.200.200.33:8024
+http://218.63.137.188:5060/rtp/239.200.200.33:8024
 #EXTINF:-1 tvg-name="楚雄新闻" tvg-logo="https://live.fanmingming.com/tv/楚雄新闻.png" group-title="卫视频道",楚雄新闻
-http://218.63.137.165:5060/rtp/239.200.200.116:8708
+http://218.63.137.188:5060/rtp/239.200.200.116:8708
 #EXTINF:-1 tvg-name="禄丰市电视台" tvg-logo="https://live.fanmingming.com/tv/禄丰市电视台.png" group-title="卫视频道",禄丰市电视台
-http://218.63.137.165:5060/rtp/239.200.200.163:8798
+http://218.63.137.188:5060/rtp/239.200.200.163:8798
 #EXTINF:-1 tvg-name="云南4K" tvg-logo="https://live.fanmingming.com/tv/云南4K.png" group-title="卫视频道",云南4K
-http://218.63.137.165:5060/rtp/239.200.200.178:8884
+http://218.63.137.188:5060/rtp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="央视高清",云南影视
 http://60.160.233.36:4022/rtp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="央视高清",云南都市
